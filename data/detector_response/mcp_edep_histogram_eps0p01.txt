@@ -1,0 +1,112 @@
+# Reference MCP deposited-energy histogram for v4 histogram_tail model
+# Format expected by mcp_rough_sensitivity_v4:
+#   edep_mev   counts
+#
+# Notes:
+# - edep_mev is interpreted as deposited energy per traversed pixel/opportunity at eps_ref.
+# - counts are bin counts.
+# - Sum of counts in this file is listed below, but for histogram_tail studies
+#   histogram_total_opportunities should be set to the true number of traversed
+#   pixel opportunities if this histogram omits zeros/underflow.
+#
+# sum_counts = 16890094
+# n_bins = 98
+
+0.007 16788040
+0.019 51817
+0.03 17096
+0.043 8568
+0.055 5150
+0.066 3390
+0.078 2400
+0.091 1861
+0.103 1443
+0.115 1098
+0.126 933
+0.138 778
+0.15 685
+0.162 551
+0.175 476
+0.186 427
+0.199 349
+0.209 325
+0.224 325
+0.235 297
+0.246 276
+0.258 206
+0.27 188
+0.283 188
+0.295 169
+0.306 157
+0.319 133
+0.331 141
+0.343 131
+0.355 138
+0.366 124
+0.379 82
+0.391 98
+0.403 94
+0.413 73
+0.425 73
+0.439 76
+0.451 80
+0.462 75
+0.475 68
+0.487 64
+0.499 49
+0.51 54
+0.521 49
+0.534 60
+0.548 44
+0.558 58
+0.571 45
+0.582 36
+0.594 44
+0.607 48
+0.617 38
+0.63 35
+0.643 45
+0.654 38
+0.666 28
+0.679 30
+0.69 32
+0.702 22
+0.715 38
+0.725 29
+0.738 21
+0.75 26
+0.761 26
+0.773 26
+0.786 29
+0.798 14
+0.81 23
+0.824 24
+0.834 19
+0.848 19
+0.859 21
+0.87 23
+0.885 18
+0.893 23
+0.904 17
+0.919 26
+0.93 9
+0.943 15
+0.954 22
+0.967 24
+0.978 15
+0.991 15
+1.002 11
+1.014 10
+1.026 18
+1.037 17
+1.05 16
+1.063 13
+1.075 5
+1.086 7
+1.098 11
+1.111 14
+1.122 10
+1.135 10
+1.146 9
+1.159 14
+1.171 9
